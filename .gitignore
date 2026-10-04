@@ -1,0 +1,9 @@
+# Project place file
+/dungeon-business.rbxlx
+# VS Code generated files
+/*.vscode
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
